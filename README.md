@@ -2,6 +2,8 @@
 
 
 ## Creative Writing Tools
+
+- [TaleForge](https://www.tale-forge.com/) - Free creative writing platform with book, manga/webtoon, and screenplay editors. Built-in marketplace, offline support, 10 languages.
 #### ONLINE WRITING ENVIRONMENTS
 <ul>  <li>750WORDS – a simple site to keep up a private diary or daily writing practice. You can earn badges and get some neat metrics after you complete your writing.
   </li><li>GOOGLE DOCS – I wrote a whole post about HOW WRITERS CAN USE GOOGLE DOCS!
